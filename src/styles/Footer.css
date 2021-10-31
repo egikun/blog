@@ -1,0 +1,33 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #93939393;
+    width: 100%;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+p {
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+}
+
+.socmed-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.socmed {
+    width: 25px;
+    height: auto;
+}
